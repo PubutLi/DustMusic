@@ -3,3 +3,4 @@
 A modern music player for all known platforms. Even dust should have the right to enjoy music.
 
 只是一个框架，没有音乐内容，但是用户可以根据自己的接口和规则自定义来源和规则；
+包含一个内置的MP3嗅探器示例，仅作为示例；
